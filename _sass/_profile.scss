@@ -1,0 +1,31 @@
+.prisoners {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile {
+  max-width: 300px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  .name {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .meta {
+    font-size: 11px;
+    margin-bottom: 1rem;
+  }
+
+  .hidden {
+    display: flex;
+    opacity: 0;
+  }
+
+  .en {
+    position: absolute;
+    top: 0;
+  }
+}
