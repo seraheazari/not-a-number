@@ -16,7 +16,7 @@ permalink: prisoners/
           {{ person.arrest_date }}
           </span>
       </div>
-      <img src='{{ person.image }}' />
+      <img src='{{ person.image | prepend: site.baseurl }}' />
     </div>
     
     <div class='en hidden'>
@@ -27,7 +27,7 @@ permalink: prisoners/
           {{ person.arrest_date }}
         </span>
       </div>
-      <img src='{{ person.image }}' />
+      <img src='{{ person.image | prepend: site.baseurl }}' />
     </div>
   </div>
   {% endfor %}

@@ -22,8 +22,8 @@ title: I Am Not A Number
 title_fa: من یک شماره نیستم
 email: seraheazari@gmail.com
 description: "" 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/not-a-number" # the subpath of your site, e.g. /blog
+url: "https://seraheazari.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
