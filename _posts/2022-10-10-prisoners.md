@@ -23,7 +23,7 @@ permalink: prisoners/
       <p class='name'>{{ person.name_en }}</p>
       <div class='meta'>
         <span class='date'>
-          Detainment date:
+          Arrested on:
           {{ person.arrest_date }}
         </span>
       </div>
