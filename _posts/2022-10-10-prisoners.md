@@ -6,7 +6,8 @@ permalink: prisoners/
 ---
 
 <div class='prisoners'>
-  {% for person in site.data.prisoners %}
+  {% for person_hash in site.data.prisoners %}
+  {% assign person = person_hash[1] %}
   <div class='profile'>
     <div class='fa lang-fa'>
       <p class='name'>{{ person.name_fa }}</p>
