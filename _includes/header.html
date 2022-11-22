@@ -8,11 +8,20 @@
 
   <nav>
     <p>
-    <a href="/prisoners">
+    <a href="{{ site.baseurl }}/prisoners">
       <span class='fa'>زندانیان</span>
       <span class='en'>Prisoners</span>
     </a>
     </p>
+
+    {% for incident in site.incidents %}
+    <p>
+    <a href="{{ site.baseurl }}/{{ incident.permalink }}/">
+	    <span class='fa'>{{ incident.title_fa }}</span>
+	    <span class='en'>{{ incident.title_en }}</span>
+    </p>
+    {% endfor %}
+
     <p>
       <a href="?lang=en">English</a>
       <a href="?lang=fa">فارسی</a>

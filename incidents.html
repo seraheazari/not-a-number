@@ -1,0 +1,14 @@
+---
+layout: default
+title: Incidents
+---
+<h1>Incidents</h1>
+
+<ul>
+	{% for incident in site.incidents %}
+	<li>
+		<h2>{{ incident.title }}</h2>
+		{{ incident.content }}
+	</li>
+	{% endfor %}
+</ul>

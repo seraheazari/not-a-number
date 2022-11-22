@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content en">
+      <div class="wrapper">
+	<h1 class="page-heading">{{ incident.title_en }}</h1>
+
+	{{ content }}
+
+	<h2>Victims</h2>
+          <ul>
+	    {% assign filtered_posts = site.posts | where: 'incident', page.name | where: 'type', 'victim' %}
+	    {% for post in filtered_posts %}
+	    <li><img style="width:24px; padding: 2px" src="{{ post.image_48px }}"</img><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name_en }}</a></li>
+	    {% endfor %}
+	  </ul>
+      </div>
+    </div>
+
+    <div class="page-content fa">
+      <div class="wrapper">
+	<h1 class="page-heading">{{ incident.title_fa }}</h1>
+
+	{{ content }}
+
+	<h2>قربانیان</h2>
+          <ul>
+	    {% assign filtered_posts = site.posts | where: 'incident', page.name | where: 'type', 'victim' %}
+	    {% for post in filtered_posts %}
+	    <li><img style="width:24px; padding: 2px" src="{{ post.image_48px }}"</img><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name_fa }}</a></li>
+	    {% endfor %}
+	  </ul>
+      </div>
+    </div>
+
+  </body>
+</html>
+
+<script src='{{ "/js/lang.js" | prepend: site.baseurl }}'></script>
