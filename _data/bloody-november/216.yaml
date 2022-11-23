@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: تا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V137_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V137_48px.jpg
+incident: bloody-november
+location_of_death_fa: اهواز خوزستان
+name_en: Meysam Majdam
+name_fa: میثم مجدم
+ref_in_datasource: 216
+type: victim

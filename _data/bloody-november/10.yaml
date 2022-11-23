@@ -1,0 +1,14 @@
+age: 40
+age_fa: ۴۰
+cause_of_death_en: Shot in the upper arm and heart
+cause_of_death_fa: اصابت گلوله به بازو و قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V010_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V010_48px.jpg
+incident: bloody-november
+location_of_death_fa: ماهشهر خوزستان
+name_en: Ahmad Cheraghian
+name_fa: احمد چراغیان
+ref_in_datasource: 10
+type: victim

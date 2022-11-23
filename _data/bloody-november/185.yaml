@@ -1,0 +1,14 @@
+age: 20
+age_fa: ۲۰
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: تا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V205_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V205_48px.jpg
+incident: bloody-november
+location_of_death_fa: اهواز خوزستان
+name_en: Mohammad Reza Asafi Zargani
+name_fa: محمدرضا عسافی زرگانی
+ref_in_datasource: 185
+type: victim

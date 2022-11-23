@@ -1,0 +1,14 @@
+age: 38
+age_fa: ۳۸
+cause_of_death_en: Shot in the back
+cause_of_death_fa: اصابت گلوله به پشت
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V101_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V101_48px.jpg
+incident: bloody-november
+location_of_death_fa: جوانرود کرمانشاه
+name_en: Jabar Tejareh
+name_fa: جبار تجاره
+ref_in_datasource: 53
+type: victim

@@ -1,0 +1,14 @@
+age: 34
+age_fa: ۳۴
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V179_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V179_48px.jpg
+incident: bloody-november
+location_of_death_fa: ماهشهر خوزستان
+name_en: Mostafa Roodbarian
+name_fa: مصطفی رودباریان
+ref_in_datasource: 192
+type: victim

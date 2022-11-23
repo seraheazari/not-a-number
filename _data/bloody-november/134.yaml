@@ -1,0 +1,14 @@
+age: 26
+age_fa: ۲۶
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V027_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V027_48px.jpg
+incident: bloody-november
+location_of_death_fa: صدرا فارس
+name_en: Alireza Anjavi
+name_fa: علیرضا انجوی
+ref_in_datasource: 134
+type: victim

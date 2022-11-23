@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V094_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V094_48px.jpg
+incident: bloody-november
+location_of_death_fa: (شهر نامشخص) تهران
+name_en: Hassan Tavousi
+name_fa: حسن طاووسی
+ref_in_datasource: 61
+type: victim

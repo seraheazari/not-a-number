@@ -1,0 +1,14 @@
+age: 16 to 19
+age_fa: ۱۶ تا ۱۹
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V206_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V206_48px.jpg
+incident: bloody-november
+location_of_death_fa: اهواز خوزستان
+name_en: Reza Neisy
+name_fa: رضا نیسی
+ref_in_datasource: 93
+type: victim

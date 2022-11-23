@@ -1,0 +1,14 @@
+age: 30
+age_fa: ۳۰
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V086_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V086_48px.jpg
+incident: bloody-november
+location_of_death_fa: شهریار تهران
+name_en: Hamidreza Hosseini
+name_fa: حمیدرضا حسینی
+ref_in_datasource: 76
+type: victim

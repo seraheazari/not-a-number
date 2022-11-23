@@ -1,0 +1,14 @@
+age: 27
+age_fa: ۲۷
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V078_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V078_48px.jpg
+incident: bloody-november
+location_of_death_fa: بهبهان خوزستان
+name_en: Farzad Ansarifar
+name_fa: فرزاد انصاری فر
+ref_in_datasource: 139
+type: victim

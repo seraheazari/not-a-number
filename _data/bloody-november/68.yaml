@@ -1,0 +1,14 @@
+age: 51
+age_fa: ۵۱
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V100_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V100_48px.jpg
+incident: bloody-november
+location_of_death_fa: ملکشهر اصفهان
+name_en: Hossein Karimi Alvijeh
+name_fa: حسین کریمی علویجه
+ref_in_datasource: 68
+type: victim

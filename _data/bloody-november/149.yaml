@@ -1,0 +1,14 @@
+age: 15 to 17
+age_fa: ۱۵ تا ۱۷
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V173_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V173_48px.jpg
+incident: bloody-november
+location_of_death_fa: اهواز خوزستان
+name_en: Mojahed Aljameyee
+name_fa: مجاهد الجامعی
+ref_in_datasource: 149
+type: victim

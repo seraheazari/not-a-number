@@ -1,0 +1,14 @@
+age: 21
+age_fa: ۲۱
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V069_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V069_48px.jpg
+incident: bloody-november
+location_of_death_fa: چهاردانگه تهران
+name_en: Erfan Faesghi
+name_fa: عرفان فایقی
+ref_in_datasource: 115
+type: victim

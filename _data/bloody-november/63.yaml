@@ -1,0 +1,14 @@
+age: 27
+age_fa: ۲۷
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: یا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V092_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V092_48px.jpg
+incident: bloody-november
+location_of_death_fa: خرمشهر خوزستان
+name_en: Hassan Ghazlavi
+name_fa: حسن غزلاوی
+ref_in_datasource: 63
+type: victim

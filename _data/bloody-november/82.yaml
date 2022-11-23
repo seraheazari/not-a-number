@@ -1,0 +1,14 @@
+age: 35
+age_fa: ۳۵
+cause_of_death_en: Shot in the leg
+cause_of_death_fa: اصابت گلوله به پا
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V194_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V194_48px.jpg
+incident: bloody-november
+location_of_death_fa: فردیس البرز
+name_en: Rahim Aminabadi
+name_fa: رحیم امین ابادی
+ref_in_datasource: 82
+type: victim

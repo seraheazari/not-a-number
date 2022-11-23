@@ -1,0 +1,14 @@
+age: 20
+age_fa: ۲۰
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V222_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V222_48px.jpg
+incident: bloody-november
+location_of_death_fa: شیراز فارس
+name_en: Shabnam Diani
+name_fa: شبنم دیانی
+ref_in_datasource: 102
+type: victim

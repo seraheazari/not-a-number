@@ -1,0 +1,14 @@
+age: 35
+age_fa: ۳۵
+cause_of_death_en: Shot in the leg
+cause_of_death_fa: اصابت گلوله به پا
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V047_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V047_48px.jpg
+incident: bloody-november
+location_of_death_fa: شهریار تهران
+name_en: Ayoub Bahramian
+name_fa: ایوب بهرامیان
+ref_in_datasource: 40
+type: victim

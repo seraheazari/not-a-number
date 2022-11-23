@@ -1,0 +1,14 @@
+age: 25
+age_fa: ۲۵
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V044_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V044_48px.jpg
+incident: bloody-november
+location_of_death_fa: فردیس البرز
+name_en: Asghar Lashghari
+name_fa: اصغر لشگری
+ref_in_datasource: 28
+type: victim

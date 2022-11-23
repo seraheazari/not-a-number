@@ -1,0 +1,14 @@
+age: 27
+age_fa: ۲۷
+cause_of_death_en: Shot in the neck
+cause_of_death_fa: اصابت گلوله به گردن
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V056_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V056_48px.jpg
+incident: bloody-november
+location_of_death_fa: اصفهان اصفهان
+name_en: Behzad Moinifar
+name_fa: بهزاد معینی فر
+ref_in_datasource: 46
+type: victim

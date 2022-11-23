@@ -1,0 +1,14 @@
+age: 58
+age_fa: ۵۸
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V140_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V140_48px.jpg
+incident: bloody-november
+location_of_death_fa: تهران تهران
+name_en: Mina Sheikhi
+name_fa: مینا شیخی
+ref_in_datasource: 220
+type: victim

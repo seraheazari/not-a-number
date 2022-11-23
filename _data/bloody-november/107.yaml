@@ -1,0 +1,14 @@
+age: 25
+age_fa: ۲۵
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V226_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V226_48px.jpg
+incident: bloody-november
+location_of_death_fa: ماهشهر خوزستان
+name_en: Taher Alkhamis (Hatavi)
+name_fa: طاهر الخمیس (حطاوی)
+ref_in_datasource: 107
+type: victim

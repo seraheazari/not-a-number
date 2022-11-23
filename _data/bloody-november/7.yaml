@@ -1,0 +1,14 @@
+age: 22
+age_fa: ۲۲
+cause_of_death_en: Shot in the back or leg
+cause_of_death_fa: اصابت گلوله به پشت یا پا
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V009_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V009_48px.jpg
+incident: bloody-november
+location_of_death_fa: ماهشهر خوزستان
+name_en: Ahad Bashareh Doraghi
+name_fa: احد بشاره دورقی
+ref_in_datasource: 7
+type: victim

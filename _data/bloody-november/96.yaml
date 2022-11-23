@@ -1,0 +1,14 @@
+age: 17
+age_fa: ۱۷
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V214_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V214_48px.jpg
+incident: bloody-november
+location_of_death_fa: یزدانشهر اصفهان
+name_en: Sasan Eydi Vandi
+name_fa: ساسان عیدی وندی
+ref_in_datasource: 96
+type: victim

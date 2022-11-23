@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V164_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V164_48px.jpg
+incident: bloody-november
+location_of_death_fa: ملارد تهران
+name_en: Mohammad Teymouri
+name_fa: محمد تیموری
+ref_in_datasource: 166
+type: victim

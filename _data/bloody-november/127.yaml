@@ -1,0 +1,14 @@
+age: 21
+age_fa: ۲۱
+cause_of_death_en: Shot in the stomach
+cause_of_death_fa: اصابت گلوله به شکم
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V025_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V025_48px.jpg
+incident: bloody-november
+location_of_death_fa: ملارد تهران
+name_en: Ali Sartipi
+name_fa: علی سرتیپی
+ref_in_datasource: 127
+type: victim

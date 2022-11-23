@@ -1,0 +1,14 @@
+age: 19
+age_fa: ۱۹
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V190_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V190_48px.jpg
+incident: bloody-november
+location_of_death_fa: اندیشه تهران
+name_en: Pejman (Ali) Gholipour Malati
+name_fa: پژمان (علی) قلیپور ملاطی
+ref_in_datasource: 49
+type: victim

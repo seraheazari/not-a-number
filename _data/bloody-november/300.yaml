@@ -1,0 +1,14 @@
+age: 26
+age_fa: ۲۶
+cause_of_death_en: Shot in the side of abdomen
+cause_of_death_fa: اصابت گلوله به پهلو
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V297_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V297_48px.jpg
+incident: bloody-november
+location_of_death_fa: اصفهان اصفهان
+name_en: Yaghoub Najafi Babadi
+name_fa: یعقوب نجفی بابادی
+ref_in_datasource: 300
+type: victim

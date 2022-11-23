@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: تا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V093_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V093_48px.jpg
+incident: bloody-november
+location_of_death_fa: ملارد تهران
+name_en: Hassan Sahrayee
+name_fa: حسن صحرایی
+ref_in_datasource: 60
+type: victim

@@ -1,0 +1,14 @@
+age: 23
+age_fa: ۲۳
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V154_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V154_48px.jpg
+incident: bloody-november
+location_of_death_fa: بهارستان تهران
+name_en: Mohammad Maleki
+name_fa: محمد ملکی
+ref_in_datasource: 176
+type: victim

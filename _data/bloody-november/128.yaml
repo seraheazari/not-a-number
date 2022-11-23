@@ -1,0 +1,14 @@
+age: 12
+age_fa: ۱۲
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V021_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V021_48px.jpg
+incident: bloody-november
+location_of_death_fa: خرمشهر خوزستان
+name_en: Ali Ghazlavi
+name_fa: علی غزلاوی
+ref_in_datasource: 128
+type: victim

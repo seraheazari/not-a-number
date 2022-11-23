@@ -1,0 +1,14 @@
+age: 22
+age_fa: ۲۲
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V181_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V181_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرمانشاه کرمانشاه
+name_en: Nader Bijanvand
+name_fa: نادر بیژنوند
+ref_in_datasource: 221
+type: victim

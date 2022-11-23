@@ -1,0 +1,14 @@
+age: 35
+age_fa: ۳۵
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V175_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V175_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرج البرز
+name_en: Morteza Sadeghinader
+name_fa: مرتضی صادقی نادر
+ref_in_datasource: 189
+type: victim

@@ -1,0 +1,14 @@
+age: Probably 17
+age_fa: نامشخص (احتمالا ۱۷ ساله)
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: تا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V219_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V219_48px.jpg
+incident: bloody-november
+location_of_death_fa: شوشتر خوزستان
+name_en: Ahmad Sa'di (Jaaveleh)
+name_fa: احمد سعدی (جعاوله)
+ref_in_datasource: 12
+type: victim

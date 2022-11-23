@@ -1,0 +1,14 @@
+age: 21
+age_fa: ۲۱
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V065_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V065_48px.jpg
+incident: bloody-november
+location_of_death_fa: جوانرود کرمانشاه
+name_en: Ebrahim Moradi
+name_fa: ابراهیم مرادی
+ref_in_datasource: 2
+type: victim

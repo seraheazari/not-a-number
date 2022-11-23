@@ -1,0 +1,14 @@
+age: 16 or 17
+age_fa: ۱۶ یا ۱۷
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V036_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V036_48px.jpg
+incident: bloody-november
+location_of_death_fa: یزدانشهر اصفهان
+name_en: Amirhossein Davoud Vand
+name_fa: امیرحسین داودوند
+ref_in_datasource: 37
+type: victim

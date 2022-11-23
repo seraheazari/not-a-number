@@ -1,0 +1,14 @@
+age: 41
+age_fa: ۴۱
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V106_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V106_48px.jpg
+incident: bloody-november
+location_of_death_fa: اسلامشهر تهران
+name_en: Kamal Faraji
+name_fa: کمال فرجی
+ref_in_datasource: 144
+type: victim

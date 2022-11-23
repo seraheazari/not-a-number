@@ -1,0 +1,14 @@
+age: 29
+age_fa: ۲۹
+cause_of_death_en: Shot in the side of abdomen
+cause_of_death_fa: اصابت گلوله به پهلو
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V028_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V028_48px.jpg
+incident: bloody-november
+location_of_death_fa: بهارستان تهران
+name_en: Alireza Mohammadzadeh
+name_fa: علیرضا محمدزاده
+ref_in_datasource: 135
+type: victim

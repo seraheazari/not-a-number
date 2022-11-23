@@ -1,0 +1,14 @@
+age: 55
+age_fa: ۵۵
+cause_of_death_en: Shot in the torso
+cause_of_death_fa: اصابت گلوله به بالا تنه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V182_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V182_48px.jpg
+incident: bloody-november
+location_of_death_fa: شهریار تهران
+name_en: Nader Momeni
+name_fa: نادر مومنی
+ref_in_datasource: 222
+type: victim

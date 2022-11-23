@@ -1,0 +1,14 @@
+age: Under 18
+age_fa: زیر ۱۸ سال
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V020_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V020_48px.jpg
+incident: bloody-november
+location_of_death_fa: صدرا فارس
+name_en: Ali Dabiri
+name_fa: علی دبیری
+ref_in_datasource: 125
+type: victim

@@ -1,0 +1,14 @@
+age: 16
+age_fa: ۱۶
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V150_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V150_48px.jpg
+incident: bloody-november
+location_of_death_fa: اصفهان اصفهان
+name_en: Mohammad Javad Abedi
+name_fa: محمدجواد عابدی
+ref_in_datasource: 178
+type: victim

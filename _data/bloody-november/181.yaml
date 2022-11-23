@@ -1,0 +1,14 @@
+age: 17
+age_fa: ۱۷
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V159_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V159_48px.jpg
+incident: bloody-november
+location_of_death_fa: سنندج کردستان
+name_en: Mohammad Reza Ahmadi
+name_fa: محمدرضا احمدی
+ref_in_datasource: 181
+type: victim

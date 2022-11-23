@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V124_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V124_48px.jpg
+incident: bloody-november
+location_of_death_fa: مشکین دشت البرز
+name_en: Mehdi Koloukhi
+name_fa: مهدی کلوخی
+ref_in_datasource: 205
+type: victim

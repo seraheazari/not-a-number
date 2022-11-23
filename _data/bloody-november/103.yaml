@@ -1,0 +1,14 @@
+age: 47
+age_fa: ۴۷
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V224_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V224_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرج البرز
+name_en: Shahram Moinee
+name_fa: شهرام معینی
+ref_in_datasource: 103
+type: victim

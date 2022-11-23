@@ -1,0 +1,14 @@
+age: 17
+age_fa: ۱۷
+cause_of_death_en: Beaten by the security forces
+cause_of_death_fa: ضرب و جرح توسط نیروهای امنیتی
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V171_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V171_48px.jpg
+incident: bloody-november
+location_of_death_fa: خرمشهر خوزستان
+name_en: Mohsen Mohammadpour
+name_fa: محسن محمدپور
+ref_in_datasource: 160
+type: victim

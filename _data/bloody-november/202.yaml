@@ -1,0 +1,14 @@
+age: 21
+age_fa: ۲۱
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V126_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V126_48px.jpg
+incident: bloody-november
+location_of_death_fa: ماهشهر خوزستان
+name_en: Mehdi Roodbarian
+name_fa: مهدی رودباریان
+ref_in_datasource: 202
+type: victim

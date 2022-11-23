@@ -1,0 +1,14 @@
+age: 18
+age_fa: ۱۸
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V189_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V189_48px.jpg
+incident: bloody-november
+location_of_death_fa: فردیس البرز
+name_en: Pedram Ja'fari Kamijani
+name_fa: پدرام جعفری کمیجانی
+ref_in_datasource: 48
+type: victim

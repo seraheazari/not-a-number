@@ -1,0 +1,14 @@
+age: 22
+age_fa: ۲۲
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V114_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V114_48px.jpg
+incident: bloody-november
+location_of_death_fa: اسلامشهر تهران
+name_en: Majid Sheikhi
+name_fa: مجید شیخی
+ref_in_datasource: 151
+type: victim

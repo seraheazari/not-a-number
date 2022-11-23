@@ -1,0 +1,14 @@
+age: 31
+age_fa: ۳۱
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: یا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V119_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V119_48px.jpg
+incident: bloody-november
+location_of_death_fa: فردیس البرز
+name_en: Mehdi Papi
+name_fa: مهدی پاپی
+ref_in_datasource: 199
+type: victim

@@ -1,0 +1,14 @@
+age: 23
+age_fa: ۲۳
+cause_of_death_en: Shot in the back
+cause_of_death_fa: اصابت گلوله به پشت
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V212_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V212_48px.jpg
+incident: bloody-november
+location_of_death_fa: ملارد تهران
+name_en: Sajad Rezayee
+name_fa: سجاد رضایی
+ref_in_datasource: 99
+type: victim

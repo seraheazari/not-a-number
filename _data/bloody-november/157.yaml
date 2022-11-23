@@ -1,0 +1,14 @@
+age: 30
+age_fa: ۳۰
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V169_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V169_48px.jpg
+incident: bloody-november
+location_of_death_fa: اسلامشهر تهران
+name_en: Mohsen Jafarpanah
+name_fa: محسن جعفرپناه
+ref_in_datasource: 157
+type: victim

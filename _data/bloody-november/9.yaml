@@ -1,0 +1,14 @@
+age: 28
+age_fa: ۲۸
+cause_of_death_en: Shot in the chest
+cause_of_death_fa: اصابت گلوله به سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V066_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V066_48px.jpg
+incident: bloody-november
+location_of_death_fa: بهبهان خوزستان
+name_en: Ehsan Abdollah Nejad
+name_fa: احسان عبدالله نژاد
+ref_in_datasource: 9
+type: victim

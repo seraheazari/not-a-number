@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V089_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V089_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرمانشاه کرمانشاه
+name_en: Hamzeh Faraji
+name_fa: حمزه فرجی
+ref_in_datasource: 72
+type: victim

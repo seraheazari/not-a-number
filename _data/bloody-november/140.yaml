@@ -1,0 +1,14 @@
+age: 30
+age_fa: ۳۰
+cause_of_death_en: Shot in the heart and chest
+cause_of_death_fa: اصابت گلوله به قلب و سینه
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V077_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V077_48px.jpg
+incident: bloody-november
+location_of_death_fa: ماهشهر خوزستان
+name_en: Farshad Hajipour Milasi
+name_fa: فرشاد حاجی پور میلاسی
+ref_in_datasource: 140
+type: victim

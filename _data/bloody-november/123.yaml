@@ -1,0 +1,14 @@
+age: Probably under 18
+age_fa: نامشخص (احتمالا زیر ۱۸ سال)
+cause_of_death_en: Shot in the side of abdomen
+cause_of_death_fa: اصابت گلوله به پهلو
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V216_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V216_48px.jpg
+incident: bloody-november
+location_of_death_fa: مشکین دشت البرز
+name_en: Ali Hosseini
+name_fa: علی حسینی
+ref_in_datasource: 123
+type: victim

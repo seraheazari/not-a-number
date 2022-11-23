@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot in the leg
+cause_of_death_fa: اصابت گلوله به پا
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V121_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V121_48px.jpg
+incident: bloody-november
+location_of_death_fa: چهاردانگه تهران
+name_en: Mehdi Ahmadi
+name_fa: مهدی احمدی
+ref_in_datasource: 198
+type: victim

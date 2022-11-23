@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: یا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V132_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V132_48px.jpg
+incident: bloody-november
+location_of_death_fa: (شهر نامشخص) تهران
+name_en: Mehrdad Hesabi Sheyjani
+name_fa: مهرداد حسابی شیجانی
+ref_in_datasource: 210
+type: victim

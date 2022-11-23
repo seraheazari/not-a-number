@@ -1,0 +1,14 @@
+age: 26
+age_fa: ۲۶
+cause_of_death_en: Shot in the stomach
+cause_of_death_fa: اصابت گلوله به شکم
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V135_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V135_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرج البرز
+name_en: Meysam Ahmadi
+name_fa: میثم احمدی
+ref_in_datasource: 215
+type: victim

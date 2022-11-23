@@ -1,0 +1,14 @@
+age: 15
+age_fa: ۱۵
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V042_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V042_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرمانشاه کرمانشاه
+name_en: Armin Ghaderi
+name_fa: ارمین قادری
+ref_in_datasource: 18
+type: victim

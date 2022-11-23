@@ -1,0 +1,14 @@
+age: 13
+age_fa: ۱۳
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V038_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V038_48px.jpg
+incident: bloody-november
+location_of_death_fa: اسلامشهر تهران
+name_en: Amirreza Abdollahi
+name_fa: امیررضا عبداللهی
+ref_in_datasource: 39
+type: victim

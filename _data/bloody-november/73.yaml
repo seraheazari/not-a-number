@@ -1,0 +1,14 @@
+age: 32
+age_fa: ۳۲
+cause_of_death_en: Shot in the heart and stomach
+cause_of_death_fa: اصابت گلوله به قلب و شکم
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V083_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V083_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرج البرز
+name_en: Hamid Rasouli
+name_fa: حمید رسولی
+ref_in_datasource: 73
+type: victim

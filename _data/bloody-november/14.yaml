@@ -1,0 +1,14 @@
+age: 49
+age_fa: ۴۹
+cause_of_death_en: Shot in the heart
+cause_of_death_fa: اصابت گلوله به قلب
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V049_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V049_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرج البرز
+name_en: Azar Mirzapour
+name_fa: اذر میرزاپور
+ref_in_datasource: 14
+type: victim

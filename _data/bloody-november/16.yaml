@@ -1,0 +1,14 @@
+age: 21
+age_fa: ۲۱
+cause_of_death_en: Shot in the back
+cause_of_death_fa: اصابت گلوله به پشت
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V043_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V043_48px.jpg
+incident: bloody-november
+location_of_death_fa: اصفهان اصفهان
+name_en: Arsham Ebrahimi
+name_fa: ارشام ابراهیمی
+ref_in_datasource: 16
+type: victim

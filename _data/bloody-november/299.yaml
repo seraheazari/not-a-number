@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot in the head
+cause_of_death_fa: اصابت گلوله به سر
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: یا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V296_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V296_48px.jpg
+incident: bloody-november
+location_of_death_fa: (شهر نامشخص) اصفهان
+name_en: Yaghoub Khosravi
+name_fa: یعقوب خسروی
+ref_in_datasource: 299
+type: victim

@@ -1,0 +1,14 @@
+age: 63 or 64
+age_fa: ۶۳ یا ۶۴
+cause_of_death_en: Suffocated from tear gas
+cause_of_death_fa: خفگی با گاز اشک اور
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V295_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V295_48px.jpg
+incident: bloody-november
+location_of_death_fa: شیراز فارس
+name_en: Yadollah Hajitaripour
+name_fa: یدالله حاجی طاری پور
+ref_in_datasource: 298
+type: victim

@@ -1,0 +1,14 @@
+age: ''
+age_fa: ''
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: یا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V112_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V112_48px.jpg
+incident: bloody-november
+location_of_death_fa: (شهر نامشخص) تهران
+name_en: Majid Fallahpour
+name_fa: مجید فلاحپور
+ref_in_datasource: 152
+type: victim
