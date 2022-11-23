@@ -1,0 +1,70 @@
+---
+age: 23
+age_fa: ۲۳
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V091_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V091_48px.jpg
+incident: bloody-november
+location_of_death_fa: قدس تهران
+name_en: Hassan Alizadeh
+name_fa: حسن علیزاده
+ref_in_datasource: 62
+type: victim
+layout: post
+title: حسن علیزاده | Hassan Alizadeh
+---
+<div class='fa'>
+    <h2 class='name'>{{ page.name_fa }}</h2>
+    {% unless page.age == "" %}
+    <div class='meta'>
+        <span class='age'>
+        سن:
+            {{ page.age_fa }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span class='location'>
+        محل کشته شدن:
+          {{ page.location_of_death_fa }}
+        </span>
+    </div>
+    {% unless page.date_of_death_fa == "" %}
+    <div class='meta'>
+        <span class='date'>
+        تاریخ کشته شدن:
+            {{ page.date_of_death_fa }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span>
+        علت مرگ:
+            {{ page.cause_of_death_fa }}
+        </span>
+    </div>
+    <img src='{{ page.image_350px }}'>
+</div>
+
+
+<div class='en hidden'>
+    <h2 class='name'>{{ page.name_en }}</h2>
+    {% unless page.age == "" %}
+    <div class='meta'>
+        <span class='age'>
+        Age:
+            {{ page.age }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span>
+        Cause of death:
+            {{ page.cause_of_death_en }}
+        </span>
+    </div>
+    <img src='{{ page.image_350px }}'>
+</div>

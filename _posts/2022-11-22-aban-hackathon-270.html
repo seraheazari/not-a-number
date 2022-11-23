@@ -1,0 +1,70 @@
+---
+age: ''
+age_fa: ''
+cause_of_death_en: Shot
+cause_of_death_fa: اصابت گلوله
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: تا  آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V241_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V241_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرمانشاه کرمانشاه
+name_en: unidentified
+name_fa: هویت شناسایی نشده
+ref_in_datasource: 270
+type: victim
+layout: post
+title: هویت شناسایی نشده | unidentified
+---
+<div class='fa'>
+    <h2 class='name'>{{ page.name_fa }}</h2>
+    {% unless page.age == "" %}
+    <div class='meta'>
+        <span class='age'>
+        سن:
+            {{ page.age_fa }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span class='location'>
+        محل کشته شدن:
+          {{ page.location_of_death_fa }}
+        </span>
+    </div>
+    {% unless page.date_of_death_fa == "" %}
+    <div class='meta'>
+        <span class='date'>
+        تاریخ کشته شدن:
+            {{ page.date_of_death_fa }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span>
+        علت مرگ:
+            {{ page.cause_of_death_fa }}
+        </span>
+    </div>
+    <img src='{{ page.image_350px }}'>
+</div>
+
+
+<div class='en hidden'>
+    <h2 class='name'>{{ page.name_en }}</h2>
+    {% unless page.age == "" %}
+    <div class='meta'>
+        <span class='age'>
+        Age:
+            {{ page.age }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span>
+        Cause of death:
+            {{ page.cause_of_death_en }}
+        </span>
+    </div>
+    <img src='{{ page.image_350px }}'>
+</div>

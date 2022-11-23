@@ -1,0 +1,70 @@
+---
+age: 32
+age_fa: ۳۲
+cause_of_death_en: Shot in the heart and stomach
+cause_of_death_fa: اصابت گلوله به قلب و شکم
+datasource: ../src/bloodynovember-sample-victims-data.xlsx
+date_of_death_fa: آبان
+image_350px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/large_350px/V083_large.jpg
+image_48px: https://sanelrsiranshutprod001.blob.core.windows.net/assets/iran_victim/medium_48px/V083_48px.jpg
+incident: bloody-november
+location_of_death_fa: کرج البرز
+name_en: Hamid Rasouli
+name_fa: حمید رسولی
+ref_in_datasource: 73
+type: victim
+layout: post
+title: حمید رسولی | Hamid Rasouli
+---
+<div class='fa'>
+    <h2 class='name'>{{ page.name_fa }}</h2>
+    {% unless page.age == "" %}
+    <div class='meta'>
+        <span class='age'>
+        سن:
+            {{ page.age_fa }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span class='location'>
+        محل کشته شدن:
+          {{ page.location_of_death_fa }}
+        </span>
+    </div>
+    {% unless page.date_of_death_fa == "" %}
+    <div class='meta'>
+        <span class='date'>
+        تاریخ کشته شدن:
+            {{ page.date_of_death_fa }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span>
+        علت مرگ:
+            {{ page.cause_of_death_fa }}
+        </span>
+    </div>
+    <img src='{{ page.image_350px }}'>
+</div>
+
+
+<div class='en hidden'>
+    <h2 class='name'>{{ page.name_en }}</h2>
+    {% unless page.age == "" %}
+    <div class='meta'>
+        <span class='age'>
+        Age:
+            {{ page.age }}
+        </span>
+    </div>
+    {% endunless %}
+    <div class='meta'>
+        <span>
+        Cause of death:
+            {{ page.cause_of_death_en }}
+        </span>
+    </div>
+    <img src='{{ page.image_350px }}'>
+</div>
